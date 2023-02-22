@@ -5,7 +5,7 @@
 
 ## Done List
 - [x] Typescript Source-code
-- [ ] Update Source-code to latest (Probs for the paid one only)
+- [x] Update Source-code to latest (Probs for the paid one only)
 - [ ] Complete Server-Side events (^)
 - [x] Working In-Game with no problems
 - [ ] Share Boilerplate (Probs for paid stuff only)
